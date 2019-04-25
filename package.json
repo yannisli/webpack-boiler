@@ -1,5 +1,4 @@
 {
-  "name": "webpack-boiler",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +8,7 @@
     "start": "webpack-dev-server --open --config webpack.dev.js"
   },
   "keywords": [],
+  "private": true,
   "author": "",
   "license": "ISC",
   "devDependencies": {
